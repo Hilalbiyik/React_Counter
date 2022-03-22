@@ -1,3 +1,7 @@
+# Counter
+
+<img src="https://user-images.githubusercontent.com/77548014/159589977-48055193-82b2-4ce8-b5ea-0b30eb3e078e.gif" width="450"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
